@@ -2,9 +2,9 @@
 
 # Criação de um sistema de gerenciamento de pessoas em API REST com Spring Boot
 
-## Projeto Criado para o Bootcamp Code Anywhere da Avanade na Digital Innocation One.
+Projeto Criado para o Bootcamp Code Anywhere da Avanade na Digital Innocation One.
 
-### Para executar o projeto no terminal, digite o seguinte comando:
+Para executar o projeto no terminal, digite o seguinte comando:
 
 ```shell script
 mvn spring-boot:run 
